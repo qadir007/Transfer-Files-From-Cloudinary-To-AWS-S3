@@ -1,7 +1,7 @@
 const fs = require("fs");
 const AWS = require("aws-sdk");
 const dotenv = require("dotenv");
-const audios = require("./audios.json");
+const audios = require("../files.json");
 const { log } = require("console");
 
 dotenv.config();
@@ -22,7 +22,7 @@ const uploadAudio = async (audio) => {
   const fileUrl = audio.thumbnail;
   const fileName = `${fileUrl}`.split("/").pop();
   // Read content from the file
-  const fileContent = fs.readFileSync(`./files/${fileName}`);
+  const fileContent = fs.readFileSync(`../files/${fileName}`);
 
   // Setting up S3 upload parameters
   const params = {
@@ -33,28 +33,28 @@ const uploadAudio = async (audio) => {
 
   log("uploading => ", fileName);
   // Uploading files to the bucket
- const result = await s3
+  const result = await s3
     .upload(params)
     .promise()
     .then((res) => ({ ...audio, thumbnail: res.Location }))
     .catch((error) => log(`error => ${error}`));
-    return result
+  return result;
 };
 
 exports.uploadFiles = async () => {
   const newAudios = [];
-    for (const audio of audios) {
-      try {
-        const newAudio = await uploadAudio(audio);
-        newAudios.push(newAudio);
-      } catch (error) {
-        console.log("error ==> ", error);
-      }
+  for (const audio of audios) {
+    try {
+      const newAudio = await uploadAudio(audio);
+      newAudios.push(newAudio);
+    } catch (error) {
+      console.log("error ==> ", error);
     }
-    log("newAudios => ", newAudios);
+  }
+  log("newAudios => ", newAudios);
   var jsonAudiosContent = JSON.stringify(newAudios);
 
-  fs.writeFile("newAudios.json", jsonAudiosContent, "utf8", function (err) {
+  fs.writeFile("../newFiles.json", jsonAudiosContent, "utf8", function (err) {
     if (err) {
       console.log("An error occured while writing JSON Object to File.");
       return console.log(err);

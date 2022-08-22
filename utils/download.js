@@ -1,7 +1,7 @@
 var http = require("http");
 var https = require("https");
 var fs = require("fs");
-const audios = require("./audios.json");
+const audios = require("../files.json");
 const { log } = require("console");
 
 downloadAudio = async (audio) => {
@@ -9,7 +9,7 @@ downloadAudio = async (audio) => {
     const fileUrl = audio.thumbnail;
     const fileName = `${fileUrl}`.split("/").pop();
     const fileProtocol = fileUrl.split(":")[0];
-    let file = fs.createWriteStream(`./files/${fileName}`);
+    let file = fs.createWriteStream(`../files/${fileName}`);
     log(" downloading => ", fileName);
     let request;
     if (fileProtocol === "http") {

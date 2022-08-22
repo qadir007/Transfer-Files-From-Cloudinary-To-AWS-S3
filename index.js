@@ -1,5 +1,5 @@
-const { download } = require("./download");
-const { uploadFiles } = require("./upload");
+const { download } = require("./utils/download");
+const { uploadFiles } = require("./utils/upload");
 
 (async () => {
   await download();
