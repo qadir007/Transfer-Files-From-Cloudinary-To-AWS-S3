@@ -1,0 +1,200 @@
+[
+    {
+        "categories": [
+            {
+                "mainCategory": {
+                    "id": "2XhmjwkhzoAZrK0ybmJH",
+                    "thumbnail": "http://res.cloudinary.com/jahanmalagha/image/upload/v1645956426/hvikjh5qkejax6lpxftt.jpg",
+                    "index": {
+                        "id": "SkCTuTrTDIwaUsbQ7CBj",
+                        "thumbnail": "http://res.cloudinary.com/jahanmalagha/image/upload/v1645956426/hvikjh5qkejax6lpxftt.jpg",
+                        "index": "POR TIPO DE MEDITACIÓN"
+                    },
+                    "mainCategory": "Cursos de retiro"
+                },
+                "index": {
+                    "thumbnail": "http://res.cloudinary.com/bee-code/image/upload/v1648453638/uc0le4yi2lxpwle94sxq.jpg",
+                    "id": "SkCTuTrTDIwaUsbQ7CBj",
+                    "index": "POR TIPO DE MEDITACIÓN"
+                },
+                "subCategory": {
+                    "id": "4lDGNM1GxCu0T0BkeCwT",
+                    "thumbnail": "http://res.cloudinary.com/jahanmalagha/image/upload/v1645956426/hvikjh5qkejax6lpxftt.jpg",
+                    "subCategory": "A personas célibes de la Obra",
+                    "mainCategory": {
+                        "mainCategory": "Cursos de retiro",
+                        "id": "2XhmjwkhzoAZrK0ybmJH",
+                        "thumbnail": "http://res.cloudinary.com/jahanmalagha/image/upload/v1645956426/hvikjh5qkejax6lpxftt.jpg",
+                        "index": {
+                            "thumbnail": "http://res.cloudinary.com/jahanmalagha/image/upload/v1645956426/hvikjh5qkejax6lpxftt.jpg",
+                            "index": "POR TIPO DE MEDITACIÓN",
+                            "id": "SkCTuTrTDIwaUsbQ7CBj"
+                        }
+                    }
+                },
+                "subSubCategory": {
+                    "thumbnail": "http://res.cloudinary.com/bee-code/image/upload/v1650713160/aktb6knlkhpgmi00m49j.jpg",
+                    "subSubCategory": "RESURRECCIÓN (Jose Brage)",
+                    "id": "jeZXZqxCNNfCvhSmqefE",
+                    "subCategory": {
+                        "id": "4lDGNM1GxCu0T0BkeCwT",
+                        "thumbnail": "https://res.cloudinary.com/bee-code/image/upload/v1649180642/fl3b76d93il4uku6th6v.png?fbclid=IwAR0DInyv0CJTSIeZuQtgcsteW_w7PPunmBHQZ5faMI36bTHmhoQCblLZ6-U",
+                        "mainCategory": {
+                            "thumbnail": "https://res.cloudinary.com/bee-code/image/upload/v1649180642/fl3b76d93il4uku6th6v.png?fbclid=IwAR0DInyv0CJTSIeZuQtgcsteW_w7PPunmBHQZ5faMI36bTHmhoQCblLZ6-U",
+                            "index": {
+                                "thumbnail": "https://res.cloudinary.com/bee-code/image/upload/v1649180642/fl3b76d93il4uku6th6v.png?fbclid=IwAR0DInyv0CJTSIeZuQtgcsteW_w7PPunmBHQZ5faMI36bTHmhoQCblLZ6-U",
+                                "index": "POR TIPO DE MEDITACIÓN",
+                                "id": "SkCTuTrTDIwaUsbQ7CBj"
+                            },
+                            "mainCategory": "Cursos de retiro",
+                            "id": "2XhmjwkhzoAZrK0ybmJH"
+                        },
+                        "subCategory": "A PERSONAS CÉLIBES (Cursos de retiro)"
+                    }
+                }
+            },
+            {
+                "mainCategory": {
+                    "thumbnail": "http://res.cloudinary.com/jahanmalagha/image/upload/v1645956426/hvikjh5qkejax6lpxftt.jpg",
+                    "index": {
+                        "id": "NaHHqiHw5tXXZ309Q4dr",
+                        "index": "INDICE POR PASAJES EVANGELIO",
+                        "thumbnail": "http://res.cloudinary.com/jahanmalagha/image/upload/v1645956426/hvikjh5qkejax6lpxftt.jpg"
+                    },
+                    "id": "SZyda9A0cih3DpeCNauf",
+                    "mainCategory": "RESURRECCIÓN"
+                },
+                "subCategory": {
+                    "thumbnail": "http://res.cloudinary.com/jahanmalagha/image/upload/v1645956426/hvikjh5qkejax6lpxftt.jpg",
+                    "id": "4aN3xUkMxbjfM45JIKSw",
+                    "mainCategory": {
+                        "thumbnail": "http://res.cloudinary.com/jahanmalagha/image/upload/v1645956426/hvikjh5qkejax6lpxftt.jpg",
+                        "index": {
+                            "thumbnail": "http://res.cloudinary.com/jahanmalagha/image/upload/v1645956426/hvikjh5qkejax6lpxftt.jpg",
+                            "id": "NaHHqiHw5tXXZ309Q4dr",
+                            "index": "INDICE POR PASAJES EVANGELIO"
+                        },
+                        "id": "SZyda9A0cih3DpeCNauf",
+                        "mainCategory": "RESURRECCIÓN"
+                    },
+                    "subCategory": "MARIA MAGDALENA"
+                },
+                "index": {
+                    "thumbnail": "http://res.cloudinary.com/bee-code/image/upload/v1648453431/l9mhbntee0gxrdu1s0f5.jpg",
+                    "id": "NaHHqiHw5tXXZ309Q4dr",
+                    "index": "INDICE POR PASAJES EVANGELIO"
+                }
+            }
+        ],
+        "audioFile": "http://res.cloudinary.com/bee-code/video/upload/v1649014300/oihvpjffzuo5llg1rwaj.m4a",
+        "duration": 1758.7,
+        "description": "Séptima meditación (segundo día) de un curso de retiro de Pascua de cinco días, predicado a miembros Numerarios del Opus Dei.",
+        "date": "2021-05-02",
+        "authorId": "josebrage@gmail.com",
+        "audioName": "07. María Magdalena II",
+        "thumbnail": "https://res.cloudinary.com/bee-code/image/upload/v1655962723/kqkgkyvke9q4kq0uq1bu.jpg",
+        "searchWords": [
+            "Search",
+            "Words"
+        ]
+    },
+    {
+        "authorId": "josebrage@gmail.com",
+        "searchWords": [
+            "Search",
+            "Words"
+        ],
+        "description": "Novena meditación (segundo día) de un curso de retiro de Pascua de cinco días, predicado a miembros Numerarios del Opus Dei.",
+        "audioName": "09. María Magdalena lV",
+        "duration": 1716.94,
+        "date": "2021-05-02",
+        "categories": [
+            {
+                "subCategory": {
+                    "thumbnail": "http://res.cloudinary.com/jahanmalagha/image/upload/v1645956426/hvikjh5qkejax6lpxftt.jpg",
+                    "subCategory": "A personas célibes de la Obra",
+                    "id": "4lDGNM1GxCu0T0BkeCwT",
+                    "mainCategory": {
+                        "index": {
+                            "id": "SkCTuTrTDIwaUsbQ7CBj",
+                            "index": "POR TIPO DE MEDITACIÓN",
+                            "thumbnail": "http://res.cloudinary.com/jahanmalagha/image/upload/v1645956426/hvikjh5qkejax6lpxftt.jpg"
+                        },
+                        "id": "2XhmjwkhzoAZrK0ybmJH",
+                        "mainCategory": "Cursos de retiro",
+                        "thumbnail": "http://res.cloudinary.com/jahanmalagha/image/upload/v1645956426/hvikjh5qkejax6lpxftt.jpg"
+                    }
+                },
+                "mainCategory": {
+                    "mainCategory": "Cursos de retiro",
+                    "thumbnail": "http://res.cloudinary.com/jahanmalagha/image/upload/v1645956426/hvikjh5qkejax6lpxftt.jpg",
+                    "index": {
+                        "index": "POR TIPO DE MEDITACIÓN",
+                        "thumbnail": "http://res.cloudinary.com/jahanmalagha/image/upload/v1645956426/hvikjh5qkejax6lpxftt.jpg",
+                        "id": "SkCTuTrTDIwaUsbQ7CBj"
+                    },
+                    "id": "2XhmjwkhzoAZrK0ybmJH"
+                },
+                "subSubCategory": {
+                    "id": "jeZXZqxCNNfCvhSmqefE",
+                    "subCategory": {
+                        "subCategory": "A PERSONAS CÉLIBES (Cursos de retiro)",
+                        "id": "4lDGNM1GxCu0T0BkeCwT",
+                        "thumbnail": "https://res.cloudinary.com/bee-code/image/upload/v1649180642/fl3b76d93il4uku6th6v.png?fbclid=IwAR0DInyv0CJTSIeZuQtgcsteW_w7PPunmBHQZ5faMI36bTHmhoQCblLZ6-U",
+                        "mainCategory": {
+                            "mainCategory": "Cursos de retiro",
+                            "thumbnail": "https://res.cloudinary.com/bee-code/image/upload/v1649180642/fl3b76d93il4uku6th6v.png?fbclid=IwAR0DInyv0CJTSIeZuQtgcsteW_w7PPunmBHQZ5faMI36bTHmhoQCblLZ6-U",
+                            "id": "2XhmjwkhzoAZrK0ybmJH",
+                            "index": {
+                                "thumbnail": "https://res.cloudinary.com/bee-code/image/upload/v1649180642/fl3b76d93il4uku6th6v.png?fbclid=IwAR0DInyv0CJTSIeZuQtgcsteW_w7PPunmBHQZ5faMI36bTHmhoQCblLZ6-U",
+                                "id": "SkCTuTrTDIwaUsbQ7CBj",
+                                "index": "POR TIPO DE MEDITACIÓN"
+                            }
+                        }
+                    },
+                    "thumbnail": "http://res.cloudinary.com/bee-code/image/upload/v1650713160/aktb6knlkhpgmi00m49j.jpg",
+                    "subSubCategory": "RESURRECCIÓN (Jose Brage)"
+                },
+                "index": {
+                    "thumbnail": "http://res.cloudinary.com/bee-code/image/upload/v1648453638/uc0le4yi2lxpwle94sxq.jpg",
+                    "index": "POR TIPO DE MEDITACIÓN",
+                    "id": "SkCTuTrTDIwaUsbQ7CBj"
+                }
+            },
+            {
+                "index": {
+                    "index": "INDICE POR PASAJES EVANGELIO",
+                    "id": "NaHHqiHw5tXXZ309Q4dr",
+                    "thumbnail": "http://res.cloudinary.com/bee-code/image/upload/v1648453431/l9mhbntee0gxrdu1s0f5.jpg"
+                },
+                "subCategory": {
+                    "thumbnail": "http://res.cloudinary.com/jahanmalagha/image/upload/v1645956426/hvikjh5qkejax6lpxftt.jpg",
+                    "subCategory": "MARIA MAGDALENA",
+                    "id": "4aN3xUkMxbjfM45JIKSw",
+                    "mainCategory": {
+                        "thumbnail": "http://res.cloudinary.com/jahanmalagha/image/upload/v1645956426/hvikjh5qkejax6lpxftt.jpg",
+                        "id": "SZyda9A0cih3DpeCNauf",
+                        "mainCategory": "RESURRECCIÓN",
+                        "index": {
+                            "index": "INDICE POR PASAJES EVANGELIO",
+                            "id": "NaHHqiHw5tXXZ309Q4dr",
+                            "thumbnail": "http://res.cloudinary.com/jahanmalagha/image/upload/v1645956426/hvikjh5qkejax6lpxftt.jpg"
+                        }
+                    }
+                },
+                "mainCategory": {
+                    "index": {
+                        "id": "NaHHqiHw5tXXZ309Q4dr",
+                        "thumbnail": "http://res.cloudinary.com/jahanmalagha/image/upload/v1645956426/hvikjh5qkejax6lpxftt.jpg",
+                        "index": "INDICE POR PASAJES EVANGELIO"
+                    },
+                    "thumbnail": "http://res.cloudinary.com/jahanmalagha/image/upload/v1645956426/hvikjh5qkejax6lpxftt.jpg",
+                    "id": "SZyda9A0cih3DpeCNauf",
+                    "mainCategory": "RESURRECCIÓN"
+                }
+            }
+        ],
+        "audioFile": "http://res.cloudinary.com/bee-code/video/upload/v1649014367/tee6zwa1uo68s3fckcxi.m4a",
+        "thumbnail": "https://res.cloudinary.com/bee-code/image/upload/v1655962723/kqkgkyvke9q4kq0uq1bu.jpg"
+    }
+]
